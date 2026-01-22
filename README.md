@@ -6,8 +6,7 @@ It presents my academic background, technical skills, projects, and achievements
 The website is deployed using **GitHub Pages** and can be viewed online.
 
 🔗 Live Website:  
-https://yourusername.github.io/your-repository-name/
-
+https://ramgopalgupta.github.io/resume-ramgopal
 ---
 
 ## 📌 About Me
